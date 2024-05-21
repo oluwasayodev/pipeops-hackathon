@@ -1,0 +1,1 @@
+web: gunicorn -b $HOST:$PORT main:app
