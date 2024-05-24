@@ -1,0 +1,11 @@
+main {
+	min-height: 94vh;
+	background-color: #0000001c;
+}
+/* margin top */
+.mg-top {
+	margin-top: 80px;
+}
+a {
+	text-decoration: none;
+}
