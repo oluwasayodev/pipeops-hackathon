@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import styled from "styled-components";
 import { Layout } from "antd";
-// import ImageDisplay from "../ImageDisplay/imageDisplay";
+import ImageDisplay from "../ImageDisplay/imageDisplay";
 
 const { Header, Content } = Layout;
 
